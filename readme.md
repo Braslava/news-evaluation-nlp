@@ -14,7 +14,7 @@ This project demonstrates the following front end web development skills:
 -   Using APIs and creating requests to external urls with fetch
 -   Using Express to set up a back end server
 
-![image](https://user-images.githubusercontent.com/74114444/162404123-a6eb2135-ddc6-4270-8d19-c8c4b2d46969.png)
+![image](https://user-images.githubusercontent.com/74114444/162404603-d838f1ad-2692-4cb1-8222-839dd375ed2c.png)
 
 
 ## Project Requirements
